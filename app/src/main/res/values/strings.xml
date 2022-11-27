@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Overflow Client</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="tags_fragment_label">Tags</string>
+    <string name="tag_questions_fragment_label">Tag Questions\</string>
+
+    <string name="question_author">Author: %s</string>
+
+    <string name="error_unknown">Unknown Error!</string>
+
+</resources>

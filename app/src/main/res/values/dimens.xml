@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_padding">10dp</dimen>
+
+    <dimen name="padding_default">10dp</dimen>
+    <dimen name="padding_small">5dp</dimen>
+
+    <dimen name="text_tag">20sp</dimen>
+
+    <dimen name="text_question_title">18sp</dimen>
+    <dimen name="text_question_subtitle">14sp</dimen>Ï
+
+</resources>
